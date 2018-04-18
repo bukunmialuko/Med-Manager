@@ -1,5 +1,5 @@
 # Med-Manager 
-Med-Manager is a simple and user friendly Android application to create reminders for medication.
+Med-Manager is a simple and user friendly Android application for creating medication reminders.
 
 Features
 -------
